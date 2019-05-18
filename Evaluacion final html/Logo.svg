@@ -1,0 +1,149 @@
+{
+ "name": "Logo",
+ "width": "400",
+ "height": "200",
+ "currentLayer": "74",
+ "selectedElements": [
+  "72"
+ ],
+ "layers": [
+  {
+   "name": "Layer 1",
+   "children": [
+    {
+     "name": "Curve",
+     "fill": {
+      "color": "rgb(51,153,204)",
+      "gradient": null,
+      "doc-model": "ObservableObject"
+     },
+     "stroke": {
+      "color": "transparent",
+      "width": 2,
+      "doc-model": "ObservableObject"
+     },
+     "opacity": 0.5,
+     "path": [
+      "P",
+      "c",
+      3.791469194312799,
+      40.85308056872038,
+      "S",
+      "c",
+      178.5781990521325,
+      40.85308056872038,
+      "S",
+      "c",
+      178.5781990521325,
+      140.18957345971546,
+      "S",
+      "c",
+      3.791469194312799,
+      140.18957345971546,
+      "S"
+     ],
+     "doc-model": "Curve",
+     "doc-model-id": "71"
+    },
+    {
+     "name": "Text",
+     "fill": {
+      "color": "rgb(136,51,85)",
+      "gradient": null,
+      "doc-model": "ObservableObject"
+     },
+     "stroke": {
+      "color": "transparent",
+      "width": 2,
+      "doc-model": "ObservableObject"
+     },
+     "opacity": 1,
+     "x": 14.407582938388634,
+     "y": 112.89099526066346,
+     "content": "JGAS",
+     "font": {
+      "family": "Open Sans",
+      "weight": 400,
+      "size": 72,
+      "isItalic": false,
+      "anchor": "start",
+      "doc-model": "ObservableObject"
+     },
+     "doc-model": "Text",
+     "doc-model-id": "72"
+    },
+    {
+     "name": "Curve",
+     "fill": {
+      "color": "rgb(34,34,34)",
+      "gradient": null,
+      "doc-model": "ObservableObject"
+     },
+     "stroke": {
+      "color": "transparent",
+      "width": 2,
+      "doc-model": "ObservableObject"
+     },
+     "opacity": 1,
+     "path": [
+      "P",
+      "c",
+      162.27488151658767,
+      117.81990521327013,
+      "S",
+      "c",
+      163.79146919431278,
+      117.81990521327013,
+      "S",
+      "c",
+      163.79146919431278,
+      116.30331753554502,
+      "S",
+      "c",
+      162.27488151658767,
+      116.30331753554502,
+      "S"
+     ],
+     "doc-model": "Curve",
+     "doc-model-id": "73"
+    }
+   ],
+   "isExpanded": true,
+   "locked": false,
+   "hidden": false,
+   "doc-model": "Layer",
+   "doc-model-id": "74"
+  }
+ ],
+ "rulers": [],
+ "colors": [
+  "rgb(34,34,34)",
+  "rgb(34,68,136)",
+  "rgb(51,153,204)",
+  "rgb(136,187,68)",
+  "rgb(255,255,255)",
+  "rgb(238,170,51)",
+  "rgb(221,68,34)",
+  "rgb(136,51,85)"
+ ],
+ "defaultFill": {
+  "color": "rgb(34,34,34)",
+  "doc-model": "ObservableObject"
+ },
+ "defaultStroke": {
+  "color": "transparent",
+  "width": 2,
+  "doc-model": "ObservableObject"
+ },
+ "defaultFontStyle": {
+  "family": "Open Sans",
+  "weight": 400,
+  "size": 72,
+  "isItalic": false,
+  "anchor": "start",
+  "doc-model": "ObservableObject"
+ },
+ "hideOverflow": false,
+ "doc-model": "Document",
+ "doc-model-id": "12473f46-fd73-4f3e-8beb-d04ce337d3f9"
+}
